@@ -1,1 +1,1 @@
-Test
+This code extension improves upon R's lpirfs package for computing local projections by Philipp Adämmer. We integrate a 2 regime variable in the interaction of the non linear local projections, accounting for 4 regimes instead of the literature's traditional use of one. This is an attempt on the method given my undergraduate thesis: code not official and not reviewed.
