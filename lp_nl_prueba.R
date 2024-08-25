@@ -1,3 +1,12 @@
+################################################################################
+################################################################################
+# This code extension is based on the lpirfs package, accounting a second regime variable
+# in order to do non linear local projections
+################################################################################
+################################################################################
+
+
+
 #' @name lp_nl
 #' @title Compute nonlinear impulse responses
 #' @description Compute nonlinear impulse responses with local projections by Jordà (2005). The
