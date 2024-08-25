@@ -1,3 +1,12 @@
+################################################################################
+################################################################################
+# This code extension is based on the lpirfs package, accounting a second regime variable
+# in order to do non linear local projections
+################################################################################
+################################################################################
+
+
+
 #' @name plot_nl
 #' @title Compute and display plots of nonlinear impulse responses
 #' @description Compute and display (nonlinear) impulse responses, estimated with \link{lp_nl}() and \link{lp_nl_iv}().
