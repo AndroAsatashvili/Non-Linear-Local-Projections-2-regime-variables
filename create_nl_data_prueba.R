@@ -1,3 +1,10 @@
+################################################################################
+################################################################################
+# This code extension is based on the lpirfs package, accounting a second regime variable
+# in order to do non linear local projections
+################################################################################
+################################################################################
+
 #' @name create_nl_data
 #' @title Compute data for nonlinear model with instrument variable approach
 #' @description Function to create data for nonlinear model with instrument variable approach.
